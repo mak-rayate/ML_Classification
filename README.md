@@ -5,7 +5,8 @@ ROC Curve:
 ![](ROC.png)
 
 output 
---> 1 -->leave
+
+    1 -->leave
 
     0 -->retained
            
