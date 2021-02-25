@@ -2,7 +2,7 @@
 
 
 ROC Curve:
-![](ML_Classification/ROC.png)
+![](ROC.png)
 
 Classification Report:
 
