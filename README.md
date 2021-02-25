@@ -4,6 +4,8 @@
 ROC Curve:
 ![](ROC.png)
 
+`output --> 1 -->leave
+           0 -->retained
 Classification Report:
 
   precision    recall  f1-score   support
