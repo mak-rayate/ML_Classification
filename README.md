@@ -6,6 +6,7 @@ ROC Curve:
 
 output 
 --> 1 -->leave
+
     0 -->retained
            
 Classification Report:
